@@ -1,5 +1,5 @@
 <?php
-  require "DBConnect.php";
+  require "dbConnection.php";
   require "User.php";
 
   function addUser($user) {
